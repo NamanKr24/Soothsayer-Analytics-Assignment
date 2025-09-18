@@ -15,7 +15,7 @@ This is a web application that processes financial documents (PDF and Excel) and
 First, clone this repository to your local machine.
 
 ```bash
-git clone [https://github.com/NamanKr24/Soothsayer-Analytics-Assignment](https://github.com/NamanKr24/Soothsayer-Analytics-Assignment)
+git clone https://github.com/NamanKr24/Soothsayer-Analytics-Assignment
 ```
 
 ### 2. Set up Ollama
